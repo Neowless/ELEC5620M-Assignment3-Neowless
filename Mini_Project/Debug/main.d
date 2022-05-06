@@ -1,0 +1,12 @@
+main.o: ../main.c
+main.o: C:/Users/Neowless/Desktop/Workspace/ELEC5620M-Resources/Drivers/DE1SoC_LT24/DE1SoC_LT24.h
+main.o: C:/Users/Neowless/Desktop/Workspace/ELEC5620M-Resources/Drivers/DE1SoC_WM8731/DE1SoC_WM8731.h
+main.o: ../My_LCD.h
+main.o: ../My_Driver/Audio_Out.h
+main.o: C:/Users/Neowless/Desktop/Workspace/ELEC5620M-Resources/Drivers/HPS_Watchdog/HPS_Watchdog.h
+main.o: C:/Users/Neowless/Desktop/Workspace/ELEC5620M-Resources/Drivers/HPS_IRQ/HPS_IRQ.h
+main.o: C:/Users/Neowless/Desktop/Workspace/ELEC5620M-Resources/Drivers/HPS_IRQ/HPS_IRQ_IDs.h
+main.o: C:/Users/Neowless/Desktop/Workspace/ELEC5620M-Resources/Drivers/HPS_usleep/HPS_usleep.h
+main.o: ../DE1SoC_SevenSeg/DE1SoC_SevenSeg.h
+main.o: ../global.h
+main.o: ../Test.h
