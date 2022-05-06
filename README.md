@@ -1,5 +1,5 @@
 # Problems about GitHub Version Control
-First of All, I am extremely sorry that during the early stage of code development, I did not use the GitHud to do the version control. Because I did not find the relavant GitHub Link to this project. So I used **Gitee** because I am more familar with **Gitee**, this is a similar tool as Github. I am extremely that I submitted the code together to GitHub in the end development cycle.
+First of All, I am extremely sorry that during the early stage of code development, I did not use the GitHud to do the version control. Because I did not find the relavant GitHub Link to this project. So I used **Gitee** because I am more familar with **Gitee**, this is a similar tool as Github. I am extremely sorry that I submitted the code together to GitHub in the end development cycle.
 
 # Abstract
 This report introduces a music player based on DE1-SoC. LCD LT24 is applied to show the album picture, the ralavant LT24 graphic library is developed. Including draw **Line**, **Rectangle**, **Triangle**, **Bit Map ASCII Text** and **Vector Text**.
